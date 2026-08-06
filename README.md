@@ -91,7 +91,7 @@ The workflow retrieves candidate records from Google Sheets and validates that a
 
 ### Test Case 1
 
-Experience: 3 Years
+Experience: 2 Years
 
 Availability: Yes
 
@@ -105,29 +105,29 @@ Shortlisted
 
 ### Test Case 2
 
-Experience: 1 Year
+Experience: 0 Year
 
 Availability: Yes
-
-Degree: Computer Science
-
-Expected Result:
-
-Needs Review
-
----
-
-### Test Case 3
-
-Experience: 0 Years
-
-Availability: No
 
 Degree: BBA
 
 Expected Result:
 
 Not Eligible
+
+---
+
+### Test Case 3
+
+Experience: 3 Years
+
+Availability: Yes
+
+Degree: BS Software Engineering
+
+Expected Result:
+
+Shortlisted
 
 ---
 
